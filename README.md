@@ -1,5 +1,5 @@
 # Game Engine Developper | BDMA Student | C++ | Unreal Engine  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E30CD&center=true&random=false&width=435&lines=Hi+there+!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile+!;My+name+is+Maxime+Emonnot;I+am+a+Game+Engine+Developper;I+also+love+to+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77809&center=true&random=false&width=435&lines=Hi+there+!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile+!;My+name+is+Maxime+Emonnot;I+am+a+Game+Engine+Developper;I+also+love+to+learn+new+things+!" alt="Typing SVG" /></a>
 
 ## 💬 About Me 
 - 🔭 I am currently working on several projects (Unreal Engine games, game engines, side projects, ...)
@@ -24,7 +24,8 @@
 </p>
 
 ## 📊 GitHub Statistics
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeEmonnot&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeEmonnot&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![MaximeEmonnot's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MaximeEmonnot&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![MaximeEmonnot's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MaximeEmonnot&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
