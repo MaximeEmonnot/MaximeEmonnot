@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,godot,gtk,kotlin,laravel,lua,mongodb,nestjs,nextjs,nodejs,opencv,php,py,qt,react,ruby,rust,sass,sklearn,svelte,tailwind,vue" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,godot,graphql,gtk,kotlin,laravel,lua,mongodb,nestjs,nextjs,nodejs,opencv,php,py,qt,react,ruby,rust,sass,sklearn,svelte,tailwind,vue" />
   </a>
 </p>
 
