@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,bash,c,cpp,css,discord,git,github,gmail,html,java,js,linux,mysql,neovim,postgres,powershell,r,ts,unreal,vim,visualstudio,vscode,vscodium,windows" />
+    <img src="https://skillicons.dev/icons?i=arch,bash,c,cpp,css,discord,git,github,gmail,html,java,js,linux,mysql,neovim,opencv,postgres,powershell,py,r,sklearn,ts,unreal,vim,visualstudio,vscode,vscodium,windows" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,godot,graphql,gtk,kotlin,laravel,lua,mongodb,nestjs,nextjs,nodejs,opencv,php,py,qt,react,ruby,rust,sass,sklearn,svelte,tailwind,vue" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,godot,graphql,gtk,kotlin,laravel,lua,mongodb,nestjs,nextjs,nodejs,php,qt,react,ruby,rust,sass,svelte,tailwind,vue" />
   </a>
 </p>
 
