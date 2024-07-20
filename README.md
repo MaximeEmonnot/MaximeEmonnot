@@ -1,9 +1,9 @@
-# Game Engine Developper | BDMA Student | C++ | Unreal Engine  
+# Game Engine Developper | DS4SC Student | C++ | Unreal Engine  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77809&center=true&random=false&width=435&lines=Hi+there+!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile+!;My+name+is+Maxime+Emonnot;I+am+a+Game+Engine+Developper;I+also+love+to+learn+new+things+!" alt="Typing SVG" /></a>
 
 ## 💬 About Me 
 - 🔭 I am currently working on several projects (Unreal Engine games, game engines, side projects, ...)
-- 🎓 I am also a BDMA Student since 2023, with some Business Intelligence projects
+- 🎓 I am also a DS4SC Student since 2023, with some Business Intelligence projects
 - 📚 My main areas of interest are Graphic Programming, Game Programming, Software Programming, C++ and Shaders
 - 😍 I also love to work on multiple projects, using different technologies !
 
